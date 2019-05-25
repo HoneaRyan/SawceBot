@@ -1,0 +1,8 @@
+# Ignores all pycache directories
+**/__pycache__
+
+# Ignores all Notebook checkpoints
+**/.ipynb_checkpoints
+
+# Ignore the values file with keys
+values.py
